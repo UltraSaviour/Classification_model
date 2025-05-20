@@ -1,4 +1,4 @@
-Download the reqiuirements.yml file
+Download the environment.yml file
 
 then download intel-classification dataset from kaggle (https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
